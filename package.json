@@ -1,0 +1,23 @@
+{
+  "name": "zakk-bot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ID0x6e656d6f/zakk-bot#readme",
+  "bugs": {
+    "url": "https://github.com/ID0x6e656d6f/zakk-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ID0x6e656d6f/zakk-bot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
